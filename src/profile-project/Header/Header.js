@@ -6,7 +6,7 @@ import './header-css.css';
 export default function Header(){
     return (
         <header>
-            <img className='project--image' src={Pictured} alt="Ted Photo"/>
+            <img className='project--image' src={Pictured} alt="Ted instant"/>
             <section>
                 <h1 className='section--detail'>Ted Bataller</h1>
                 <h4 className='section--detail'>Frontend Developer</h4>
