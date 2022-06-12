@@ -14,7 +14,7 @@ export default function Header(){
             </section>
             <nav>
                 <button className='email--button'>
-                    <img src={EmailLogo}/>
+                    <img src={EmailLogo} alt='just to add'/>
                     <p>Email</p>
                 </button>
                 <button className='linkedin--button'>
