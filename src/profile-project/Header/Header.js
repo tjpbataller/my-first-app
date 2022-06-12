@@ -10,7 +10,7 @@ export default function Header(){
             <section>
                 <h1 className='section--detail'>Ted Bataller</h1>
                 <h4 className='section--detail'>Frontend Developer</h4>
-                <h5 className='section--detail'>tedbataller.website</h5>
+                <h5 className='section--detail'>tjbataller.netlify.app</h5>
             </section>
             <nav>
                 <button className='email--button'>
