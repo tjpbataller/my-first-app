@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+body{
+    display :flex;
+    margin: 0;
+    padding: 0;
+    background-color: #23252C;
+    justify-content: center;
+}
+
+.project--body{
+    background-color: #1A1B21;
+    max-width: 317px;
+    min-width: 200px;
+    color: #FFFFFF;
+    border-radius: .65rem;
+    margin: 2rem;
+    overflow: hidden;
+}
