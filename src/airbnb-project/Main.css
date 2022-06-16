@@ -41,6 +41,9 @@ nav {
 .hero--text{
     margin-top: 0;
 }
+.card--container{
+    overflow: hidden;
+}
 .card {
     display: inline-block;
     position: relative;
