@@ -80,7 +80,7 @@ export default function MainComponent(){
                     <span className="total--booking">(6)</span>
                     <span className="booking--country">USA</span>
                     </div>
-                    <div className="card--text">Lean wedding photography</div>
+                    <div className="card--text">Learn wedding photography</div>
                     <div className="card--price">
                     <span><b>From $<span className='booking--price'>136</span></b> / person</span>
                     </div>
