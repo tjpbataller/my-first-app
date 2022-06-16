@@ -43,11 +43,12 @@ nav {
 }
 .card--container{
     overflow: hidden;
+    max-height: 300px;
 }
 .card {
     display: inline-block;
     position: relative;
-    margin: 15px;
+    margin: 9px;
   /*   background-color: #ddd; */
   }
   .card--photo {
