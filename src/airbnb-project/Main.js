@@ -6,10 +6,12 @@ import MainComponent from './MainComponent/MainComponent.js';
 
 export default function Main(){
     return (
-        <div>
+        <div className='root--container'>
             <Header />
-            <Hero />
-            <MainComponent />
+            <div className='main--container'>
+                <Hero />
+                <MainComponent />
+            </div>
         </div>
     )
 }
