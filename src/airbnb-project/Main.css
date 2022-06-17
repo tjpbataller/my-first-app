@@ -93,3 +93,9 @@ nav {
     text-align: justify;
     text-justify: inter-word;
   }
+  .burger--layer{
+    display:block;
+    width: 80px;
+    height:15px;
+    background-color: #918E9B;
+  }
