@@ -95,7 +95,9 @@ nav {
   }
   .burger--layer{
     display:block;
-    width: 80px;
-    height:15px;
-    background-color: #918E9B;
+    width: 30px;
+    height:4px;
+    background-color: #cfcfcf;
+    margin: 4px;
+    border-radius: 2px;
   }
