@@ -5,9 +5,9 @@ export default function Header(){
         <nav>
             <img src={AirbnbLogo} alt='airbnb small' className='nav--logo'/>
             <div className='burger--button'>
-                <span></span>
-                <span></span>
-                <span></span>
+                <span className='burger--layer'></span>
+                <span className='burger--layer'></span>
+                <span className='burger--layer'></span>
             </div>
         </nav>
     )
